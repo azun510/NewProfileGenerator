@@ -18,4 +18,4 @@
 https://azun510.github.io/NewProfileGenerator/
 
 ## Link to Video
-https://drive.google.com/file/d/1750zlYsQV5ILtdmsxfoMyF7avI0rNUMh/view
+https://drive.google.com/file/d/1750zlYsQV5ILtdmsxfoMyF7avI0rNUMh/view?usp=sharing
