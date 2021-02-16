@@ -1,7 +1,7 @@
 # New Profile Generator
   
 ## Description
-  Before a user is presented with the code of a project the first thing they will encounter is a READMe file that explains the purpose of their code. Creating a READMe file can be intimidating and the contents of the file can be confusing. The goal of this project is to create a README generator that streamlines the difficult process.
+  When it comes to organizing new teams it can be efficient to have an application that can neatly organize the names as well as their postion. This week we learned to create a generator that was able to place all these together on one webstite. 
   
 ## Installation 
 
